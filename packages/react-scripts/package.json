@@ -1,6 +1,6 @@
 {
-  "name": "react-scripts",
-  "version": "3.0.1",
+  "name": "@adampdc/react-scripts",
+  "version": "3.0.1-a01",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
